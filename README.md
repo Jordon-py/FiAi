@@ -85,6 +85,8 @@ Run `npm run build`, then deploy the generated `dist/` directory with Vercel,
 Netlify, or another static host. No environment variables are required in
 version one.
 
+Live Vercel deployment: <https://paycheck-planner-premium.vercel.app>
+
 ## Health
 
 - Core calculator: implemented

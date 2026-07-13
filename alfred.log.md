@@ -1,5 +1,25 @@
 # ALFRED Implementation Log
 
+## 2026-07-13 — Vercel deployment
+
+### Request
+
+Deploy the current repository to the connected Vercel account and return the
+live link.
+
+### Result
+
+- Stable URL: `https://paycheck-planner-premium.vercel.app`
+- Deployment URL: `https://paycheck-planner-premium-js3umk4w3-christopher-jordons-projects.vercel.app`
+- Vercel deployment: `dpl_DNgBVCEo913471YoGJAN3NX32tQr`
+- Status: `READY`
+- Framework delivery: prebuilt static Vite output
+- Environment variables: none required
+
+The first source-manifest deployment failed because the connector uploaded an
+incomplete file set. The successful retry deployed the locally verified
+`dist/` artifact directly.
+
 ## 2026-07-12 — Premium color-system refresh
 
 ### Request

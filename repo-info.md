@@ -11,6 +11,7 @@ Generated: 2026-07-12 (America/Los_Angeles)
 - Application status: Phase 1 paycheck calculator implemented
 - Health: lint passed, 4/4 tests passed, production build passed
 - Security: `npm audit` reported 0 vulnerabilities
+- Deployment: `https://paycheck-planner-premium.vercel.app` (Vercel, READY)
 - Generated artifacts: `dist/` and `output/playwright/` (both ignored)
 
 ## Feature List
